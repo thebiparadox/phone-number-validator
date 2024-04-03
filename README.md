@@ -1,2 +1,1 @@
-# phone-number-validator
-Created a phone number validator for the Bad Code Camp bootcamp
+This is my palindrome checker project for [freeCodeCamp's JavaScript and Data Structures certification.](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/build-a-telephone-number-validator-project/build-a-telephone-number-validator)
